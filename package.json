@@ -1,0 +1,15 @@
+{
+  "name": "ClassApp_CSV_JSON_Parse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leonardo Vinícius da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "csvjson": "^5.1.0"   
+  }
+}
